@@ -116,6 +116,7 @@
             z-index: 1;
             padding-top: 0;
             transform: scale(1);
+            opacity: 1;
         }
         &--is-visible {
             opacity: 1;
